@@ -137,6 +137,8 @@ Comme vous l'avez sûrement vu dans la CSS fournis avec l'exercice, il y a des c
 Ajoutez la classe carousel-thumbnail à votre slider et placez les thumbnails fournis dans le dossier images dans votre listes carousel-indicators et c'est parti un petit slider avec aperçu.
 Bon le code est pas nikel mais cela donne une impression de ce que l'on peut faire avec bootstrap.
 
+Ce que cela devrait donner :
+<img src="screenshots/gallery-extra.png" style="max-width:400px">
 
 # 8. A vous de jouer !
 
