@@ -21,7 +21,7 @@ Le but étant de vous pousser à lire la documentation bootstrap et à chercher 
 # 1. La navbar
 *A faire sur toutes les pages.*
 
-Prenez le temps de regarder la documentation sur bootstrap : [Navbar](http://getbootstrap.com/components/#navbar)
+Prenez le temps de regarder la documentation sur bootstrap : [Navbar](https://getbootstrap.com/docs/5.3/components/navbar/)
 
 Une version un peu simplifiée de l'exemple bootstrap :
 ```html
@@ -65,7 +65,7 @@ Ici un peu comme dans le positionnement du TP précédent, vous allez essentiell
 * .row
 * .col-xs-n .col-sm-n .col-md-n et .col-lg-n où "n" est un nombre entre 1 et 12.
 
-Vous pouvez lire la documentation bootstrap ici : [Grille](http://getbootstrap.com/css/#grid)
+Vous pouvez lire la documentation bootstrap ici : [Grille](https://getbootstrap.com/docs/5.3/layout/grid/)
 
 Résultat attendu mobile et tablette (attention le menu n'est pas le même en version tablette):
 <img src="screenshots/index-xs-sm.png" style="max-width:400px">
@@ -84,7 +84,7 @@ Pour le footer essayez de trouver la solution en fouinant un peu sur le site de 
 Lors de cette partie vous mettrez en forme un tableau. Il n'y aura pas grande différence entre la version mobile et la version bureau.
 Juste une petite subtilité, si jamais votre tableau venait à être trop grand pour le support.
 
-La documentation pour les tableaux : [Tableaux](http://getbootstrap.com/css/#tables)
+La documentation pour les tableaux : [Tableaux](https://getbootstrap.com/docs/5.3/content/tables/)
 
 Le résultat attendu :
 <img src="screenshots/products.png" style="max-width:400px">
@@ -94,7 +94,7 @@ On ne le voit pas sur la capture mais la couleur des lignes change au survol.
 # 4. Un slider
 *A faire sur la page gallery*
 
-Bootstrap fournis un slider : [Slider/Carousel](http://getbootstrap.com/javascript/#carousel)
+Bootstrap fournis un slider : [Slider/Carousel](https://getbootstrap.com/docs/5.3/components/carousel/)
 
 A vous de mettre en place un slider à partir des images fournies. Comme précédemment pas grande différence entre les différentes versions.
 
@@ -104,7 +104,7 @@ Résultat attendu :
 # 5. Un formulaire
 *A faire sur la page contact*
 
-Bootstrap fournis tout un tas d'outils pour les formulaires. Prennez le temps d'y jetter un coup d'oeil : [Formulaire](http://getbootstrap.com/css/#forms)
+Bootstrap fournis tout un tas d'outils pour les formulaires. Prennez le temps d'y jetter un coup d'oeil : [Formulaire](https://getbootstrap.com/docs/5.3/forms/overview/)
 
 Résultat attendu mobile :
 <img src="screenshots/contact-xs.png" style="max-width:400px">
